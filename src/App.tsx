@@ -2,7 +2,7 @@ import Dropdown from './Dropdown-with-React-useHotkeys-hook';
 
 function App() {
   return (
-    <div className="flex">
+    <div className="flex m-[10px]">
       <Dropdown
         name="item"
         label="To Do Item"
