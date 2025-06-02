@@ -1,4 +1,4 @@
-import Dropdown from './Dropdown-with-React-useHotkeys-hook';
+import Dropdown from './Dropdown-without-React-useHotkeys-hook';
 
 function App() {
   return (
